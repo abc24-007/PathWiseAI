@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../PathwiseAI.Tests/PathwiseAI.Tests.csproj" />
+  <Project Path="../PathWiseAi.Web/PathWiseAi.Web.csproj" />
+  <Project Path="PathWiseAI.csproj" />
+</Solution>
